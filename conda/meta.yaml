@@ -1,0 +1,18 @@
+package:
+  name: aggregate_linelisting
+  version: 0.0.1
+
+source:
+  git_url: https://github.com/DiDigsDNA/aggregate_linelisting
+  git_rev: master
+
+requirements:
+  run:
+    - python 2.7
+    - biopython
+
+build:
+  number: 0
+
+about:
+  home: https://github.com/DiDigsDNA/aggregate_linelisting
