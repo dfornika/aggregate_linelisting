@@ -1,7 +1,0 @@
-name: linelisting
-owner: diane
-description: Transforms fasta files of flu antigenic maps into a non-aggregated line list, comparing to a reference antigenic map.
-homepage_url: https://github.com/DiDigsDNA/linelisting/
-long_description: 
-remote_repository_url: https://github.com/DiDigsDNA/linelisting/
-type: unrestricted
